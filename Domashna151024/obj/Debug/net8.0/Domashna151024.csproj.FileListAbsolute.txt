@@ -1,0 +1,14 @@
+D:\homeworke\Domashna151024\Domashna151024\bin\Debug\net8.0\Domashna151024.exe
+D:\homeworke\Domashna151024\Domashna151024\bin\Debug\net8.0\Domashna151024.deps.json
+D:\homeworke\Domashna151024\Domashna151024\bin\Debug\net8.0\Domashna151024.runtimeconfig.json
+D:\homeworke\Domashna151024\Domashna151024\bin\Debug\net8.0\Domashna151024.dll
+D:\homeworke\Domashna151024\Domashna151024\bin\Debug\net8.0\Domashna151024.pdb
+D:\homeworke\Domashna151024\Domashna151024\obj\Debug\net8.0\Domashna151024.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\Domashna151024\Domashna151024\obj\Debug\net8.0\Domashna151024.AssemblyInfoInputs.cache
+D:\homeworke\Domashna151024\Domashna151024\obj\Debug\net8.0\Domashna151024.AssemblyInfo.cs
+D:\homeworke\Domashna151024\Domashna151024\obj\Debug\net8.0\Domashna151024.csproj.CoreCompileInputs.cache
+D:\homeworke\Domashna151024\Domashna151024\obj\Debug\net8.0\Domashna151024.dll
+D:\homeworke\Domashna151024\Domashna151024\obj\Debug\net8.0\refint\Domashna151024.dll
+D:\homeworke\Domashna151024\Domashna151024\obj\Debug\net8.0\Domashna151024.pdb
+D:\homeworke\Domashna151024\Domashna151024\obj\Debug\net8.0\Domashna151024.genruntimeconfig.cache
+D:\homeworke\Domashna151024\Domashna151024\obj\Debug\net8.0\ref\Domashna151024.dll
